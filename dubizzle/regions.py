@@ -1,6 +1,6 @@
 # Contains region-specific attributes for Dubizzle sites
 uae = {
-    'base_url': 'http://uae.dubizzle.com/search',
+    'base_url': 'https://dubai.dubizzle.com/motors/used-cars/',
     'cities': {
         'code': 'site',
         'options': {
